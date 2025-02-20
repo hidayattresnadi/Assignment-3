@@ -1,0 +1,50 @@
+a:3:{s:4:"time";i:1740053345;s:3:"ttl";i:21600;s:4:"data";s:2282:"<div class="card-body">
+            <table class="table table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Course Name</th>
+                    <th>Course Code</th>
+                    <th>Instructor</th>
+                    <th>Schedule</th>
+                                            <th>Grade</th>
+                                    </tr>
+            </thead>
+            <tbody>
+                                    <tr>
+                        <td>Database Systems</td>
+                        <td>CS203</td>
+                        <td>Dr. Smith</td>
+                        <td>Mon &amp; Wed, 10:00-11:30</td>
+                                                    <td>80</td>
+                                            </tr>
+                                    <tr>
+                        <td>Web Development</td>
+                        <td>CS305</td>
+                        <td>Prof. Johnson</td>
+                        <td>Tue &amp; Thu, 13:00-14:30</td>
+                                                    <td>85</td>
+                                            </tr>
+                                    <tr>
+                        <td>Operating Systems</td>
+                        <td>CS305</td>
+                        <td>Prof. Davis</td>
+                        <td>Mon &amp; Wed, 13:00-14:30</td>
+                                                    <td>78</td>
+                                            </tr>
+                                    <tr>
+                        <td>Software Engineering</td>
+                        <td>CS310</td>
+                        <td>Dr. Lee</td>
+                        <td>Fri, 10:00-12:00</td>
+                                                    <td>90</td>
+                                            </tr>
+                                    <tr>
+                        <td>Computer Networks</td>
+                        <td>CS320</td>
+                        <td>Dr. Brown</td>
+                        <td>Tue &amp; Thu, 14:00-15:30</td>
+                                                    <td>88</td>
+                                            </tr>
+                            </tbody>
+        </table>
+    </div>";}

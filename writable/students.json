@@ -1,0 +1,102 @@
+[
+    {
+        "id": 670,
+        "name": "John Doe",
+        "dob": "2000-05-15",
+        "email": "john.doe@example.com",
+        "phone": "08123456789",
+        "address": "Jl. Mawar No. 10, Jakarta",
+        "programStudy": "Computer Science",
+        "currentSemester": "5",
+        "gpa": "3.75",
+        "academicStatus": "On Leave",
+        "enrollmentYear": "2020",
+        "courses": [
+            {
+                "courseName": "Database Systems",
+                "courseCode": "CS203",
+                "instructorName": "Dr. Smith",
+                "schedule": "Mon & Wed, 10:00-11:30",
+                "grade":80
+            },
+            {
+                "courseName": "Web Development",
+                "courseCode": "CS305",
+                "instructorName": "Prof. Johnson",
+                "schedule": "Tue & Thu, 13:00-14:30",
+                "grade":85
+            },
+            {
+                "courseName": "Operating Systems",
+                "courseCode": "CS305",
+                "instructorName": "Prof. Davis",
+                "schedule": "Mon & Wed, 13:00-14:30",
+                "grade": 78
+            },
+            {
+                "courseName": "Software Engineering",
+                "courseCode": "CS310",
+                "instructorName": "Dr. Lee",
+                "schedule": "Fri, 10:00-12:00",
+                "grade": 90
+            },
+            {
+                "courseName": "Computer Networks",
+                "courseCode": "CS320",
+                "instructorName": "Dr. Brown",
+                "schedule": "Tue & Thu, 14:00-15:30",
+                "grade": 88
+            }
+        ]
+    },
+    {
+        "id": 671,
+        "name": "Jane Doe",
+        "dob": "2000-05-15",
+        "email": "jane.doe@example.com",
+        "phone": "08123456788",
+        "address": "Jl. Mawar No. 11, Jakarta",
+        "programStudy": "Computer Science",
+        "currentSemester": "5",
+        "gpa": "3.75",
+        "academicStatus": "Active",
+        "enrollmentYear": "2020",
+        "courses": [
+            {
+                "courseName": "Database Systems",
+                "courseCode": "CS203",
+                "instructorName": "Dr. Smith",
+                "schedule": "Mon & Wed, 10:00-11:30",
+                "grade":80
+            },
+            {
+                "courseName": "Web Development",
+                "courseCode": "CS305",
+                "instructorName": "Prof. Johnson",
+                "schedule": "Tue & Thu, 13:00-14:30",
+                "grade":85
+            },
+            {
+                "courseName": "Operating Systems",
+                "courseCode": "CS305",
+                "instructorName": "Prof. Davis",
+                "schedule": "Mon & Wed, 13:00-14:30",
+                "grade": 78
+            },
+            {
+                "courseName": "Software Engineering",
+                "courseCode": "CS310",
+                "instructorName": "Dr. Lee",
+                "schedule": "Fri, 10:00-12:00",
+                "grade": 90
+            },
+            {
+                "courseName": "Computer Networks",
+                "courseCode": "CS320",
+                "instructorName": "Dr. Brown",
+                "schedule": "Tue & Thu, 14:00-15:30",
+                "grade": 88
+            }
+        ]
+    }
+]
